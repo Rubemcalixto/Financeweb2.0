@@ -24,6 +24,6 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubemcalixto/)](https://www.linkedin.com/in/rubemcalixto/)
 
- [Link do projeto finance.dev](financeweb2023.vercel.app)
+ [Link do projeto finance.dev](https://financeweb2-0-4b1d-rubemcalixtos-projects.vercel.app/)
 
 
